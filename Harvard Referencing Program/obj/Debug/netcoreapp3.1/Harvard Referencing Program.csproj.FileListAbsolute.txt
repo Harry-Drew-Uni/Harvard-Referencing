@@ -1,0 +1,14 @@
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\bin\Debug\netcoreapp3.1\Harvard Referencing Program.exe
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\bin\Debug\netcoreapp3.1\Harvard Referencing Program.deps.json
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\bin\Debug\netcoreapp3.1\Harvard Referencing Program.runtimeconfig.json
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\bin\Debug\netcoreapp3.1\Harvard Referencing Program.runtimeconfig.dev.json
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\bin\Debug\netcoreapp3.1\Harvard Referencing Program.dll
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\bin\Debug\netcoreapp3.1\Harvard Referencing Program.pdb
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\obj\Debug\netcoreapp3.1\Harvard Referencing Program.csproj.AssemblyReference.cache
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\obj\Debug\netcoreapp3.1\Harvard Referencing Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\obj\Debug\netcoreapp3.1\Harvard Referencing Program.AssemblyInfoInputs.cache
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\obj\Debug\netcoreapp3.1\Harvard Referencing Program.AssemblyInfo.cs
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\obj\Debug\netcoreapp3.1\Harvard Referencing Program.csproj.CoreCompileInputs.cache
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\obj\Debug\netcoreapp3.1\Harvard Referencing Program.dll
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\obj\Debug\netcoreapp3.1\Harvard Referencing Program.pdb
+C:\Users\eddre\source\repos\Harvard-Referencing\Harvard Referencing Program\obj\Debug\netcoreapp3.1\Harvard Referencing Program.genruntimeconfig.cache
